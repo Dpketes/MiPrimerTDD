@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0383b9a9-0c72-4c41-a8fc-a04c4753d0f9" name="Changes" comment="Primer commit, creación de Test">
+    <list default="true" id="0383b9a9-0c72-4c41-a8fc-a04c4753d0f9" name="Changes" comment="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche.">
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -50,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686634525729</updated>
-      <workItem from="1686634527591" duration="484000" />
+      <workItem from="1686634527591" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, creación de Test">
       <created>1686634936589</created>
@@ -59,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686634936589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche.">
+      <created>1686635285206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686635285206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit, creación de Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit, creación de Test" />
+    <MESSAGE value="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche." />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche." />
   </component>
 </project>
