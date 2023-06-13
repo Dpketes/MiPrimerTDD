@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0383b9a9-0c72-4c41-a8fc-a04c4753d0f9" name="Changes" comment="Quinto commit, creacion de nuevo metodo decelerar en clase Test y clase coche.">
-      <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
-    </list>
+    <list default="true" id="0383b9a9-0c72-4c41-a8fc-a04c4753d0f9" name="Changes" comment="Ultimo commit, creacion del metodo y test que prueba que la velocidad no sea menor que cero." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686634525729</updated>
-      <workItem from="1686634527591" duration="1421000" />
+      <workItem from="1686634527591" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, creación de Test">
       <created>1686634936589</created>
@@ -96,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686635918600</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ultimo commit, creacion del metodo y test que prueba que la velocidad no sea menor que cero.">
+      <created>1686636223927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686636223927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +124,7 @@
     <MESSAGE value="Tercer commit, modificación de metodo en la clase TestCoche y creación del atributo velocidad en la clase Coche." />
     <MESSAGE value="Cuarto commit, creacion de nuevo metodo acelerar en clase Test y clase coche." />
     <MESSAGE value="Quinto commit, creacion de nuevo metodo decelerar en clase Test y clase coche." />
-    <option name="LAST_COMMIT_MESSAGE" value="Quinto commit, creacion de nuevo metodo decelerar en clase Test y clase coche." />
+    <MESSAGE value="Ultimo commit, creacion del metodo y test que prueba que la velocidad no sea menor que cero." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimo commit, creacion del metodo y test que prueba que la velocidad no sea menor que cero." />
   </component>
 </project>
