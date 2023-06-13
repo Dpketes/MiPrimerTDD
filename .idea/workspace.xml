@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0383b9a9-0c72-4c41-a8fc-a04c4753d0f9" name="Changes" comment="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche.">
+    <list default="true" id="0383b9a9-0c72-4c41-a8fc-a04c4753d0f9" name="Changes" comment="Tercer commit, modificación de metodo en la clase TestCoche y creación del atributo velocidad en la clase Coche.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,11 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686634525729</updated>
-      <workItem from="1686634527591" duration="786000" />
+      <workItem from="1686634527591" duration="1112000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, creación de Test">
       <created>1686634936589</created>
@@ -70,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686635285206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tercer commit, modificación de metodo en la clase TestCoche y creación del atributo velocidad en la clase Coche.">
+      <created>1686635508694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686635508694</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit, creación de Test" />
     <MESSAGE value="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche." />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit, creacion de metodo en la clase TestCoche y creación de la clase Coche." />
+    <MESSAGE value="Tercer commit, modificación de metodo en la clase TestCoche y creación del atributo velocidad en la clase Coche." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tercer commit, modificación de metodo en la clase TestCoche y creación del atributo velocidad en la clase Coche." />
   </component>
 </project>
